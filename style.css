@@ -1,6 +1,6 @@
 /* Basic Style */
 body {
-  background: #fff;
+  background: #B0B293;
   color: #333;
   font-family: Lato, sans-serif;
 }
@@ -51,7 +51,7 @@ input[type="text"] {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
-  height: 18px;
+  height: 36px;
   padding: 10px;
   border: 1px solid #ddd;
   background: #fff;
@@ -73,7 +73,7 @@ input#new-task {
   width: 318px;
 }
 p > button:hover {
-  color: #0FC57C;
+  color: #0042FF;
 }
 
 /* Task list */
